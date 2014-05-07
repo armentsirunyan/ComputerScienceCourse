@@ -21,8 +21,8 @@ require_once('commonheadcontents.php')
       <p class="remember_me">
         <label>
           <input type="checkbox" name="remember_me" id="remember_me">
-        </label>
-        Оставаться в системе
+          Оставаться в системе
+        </label>        
       </p>
       <p class="submit"><input type="submit" name="commit" value="Войти"></p>
       <?php
